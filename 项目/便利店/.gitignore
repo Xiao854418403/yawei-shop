@@ -1,0 +1,8 @@
+data/orders.json
+data/payment_qr*.png
+*.lock
+*.tmp
+__pycache__/
+推送上线.py
+推送上线.bat
+推送上线_gitee.py
